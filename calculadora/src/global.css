@@ -1,0 +1,37 @@
+:root {
+  --bg-button: #f0f0f0;
+  --bg-button-op: #15428b;
+  --border-button: solid 1px #888;
+}
+
+@font-face {
+  font-family: "WorkSans";
+  src: url("./fonts/WorkSans.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "WorkSans", monospace;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  background: #005c97; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #363795,
+    #005c97
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #363795,
+    #005c97
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
