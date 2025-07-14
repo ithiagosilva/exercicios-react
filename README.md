@@ -3,7 +3,7 @@
 Welcome to my repository of hands-on React exercises! This space is dedicated to my **learning journey**, where I put into practice the concepts I'm studying—from the fundamentals to the most modern techniques of the world's most popular JavaScript library.
 
 <ul>
-    <li><a href="https://tiny-sundae-7e82d1.netlify.app" target="_blank">Calculator</a></li>
+    <li><a href="https://tiny-sundae-7e82d1.netlify.app" rel="noopener noreferrer" target="_blank">Calculator</a></li>
 </ul>
 
 ## 🧠 Purpose
@@ -32,4 +32,4 @@ My name is **Thiago**, and I'm passionate about technology. In this repository, 
 
 ---
 
-📬 Contact: <a href="https://www.linkedin.com/in/thiago-hs/" target="_blank">LinkedIn</a>
+📬 Contact: <a href="https://www.linkedin.com/in/thiago-hs/" rel="noopener noreferrer" target="_blank">LinkedIn</a>
