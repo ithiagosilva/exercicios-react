@@ -2,7 +2,7 @@
 
 Welcome to my repository of hands-on React exercises! This space is dedicated to my **learning journey**, where I put into practice the concepts I'm studying—from the fundamentals to the most modern techniques of the world's most popular JavaScript library.
 
-[Calculator](tiny-sundae-7e82d1.netlify.app)
+[Calculator](https://tiny-sundae-7e82d1.netlify.app)
 
 ## 🧠 Purpose
 
