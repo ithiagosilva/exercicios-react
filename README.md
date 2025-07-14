@@ -2,6 +2,8 @@
 
 Welcome to my repository of hands-on React exercises! This space is dedicated to my **learning journey**, where I put into practice the concepts I'm studying—from the fundamentals to the most modern techniques of the world's most popular JavaScript library.
 
+[Calculator](tiny-sundae-7e82d1.netlify.app)
+
 ## 🧠 Purpose
 
 This repository is part of the course I'm taking to master React. Here you'll find:
