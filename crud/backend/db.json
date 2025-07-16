@@ -1,13 +1,24 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Artur Oliveira",
-            "email": "aoliveira@cod3r.com.br"
-        }, {
-            "id": 2,
-            "name": "Maria Julia da Silva",
-            "email": "mjds@empresa.com"
-        }
-    ]
+  "users": [
+    {
+      "id": "8096",
+      "name": "thiago",
+      "email": "asdsasds@asdsasda.com"
+    },
+    {
+      "id": "5535",
+      "name": "Kat",
+      "email": "kat@email.com"
+    },
+    {
+      "id": "de3f",
+      "name": "asds",
+      "email": "Mike.Hillyer@sakilastaff.com"
+    },
+    {
+      "id": "5308",
+      "name": "Liu",
+      "email": "liu@email.com"
+    }
+  ]
 }

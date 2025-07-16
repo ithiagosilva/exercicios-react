@@ -4,7 +4,17 @@ Welcome to my repository of hands-on React exercises! This space is dedicated to
 
 <ul>
     <li><a href="https://tiny-sundae-7e82d1.netlify.app" rel="noopener noreferrer" target="_blank"> 🔢 Calculator</a></li>
-    <li>✏️📖🔧🗑️ <span style="text-decoration: underline;">Crud</span> (soon...)</li>
+    <li><a href="https://majestic-malasada-35d9cb.netlify.app/" rel="noopener noreferrer" target="_blank"> ✏️ Crud </a> -> Only the frontend is hosted. Run the fake backend locally to test. For a better experience, run both the frontend and backend locally.
+    <div>
+        On the 📂frontend folder run: 
+        <code>npm run dev</code>
+    </div>
+    <div>
+        On the 📂backend folder run: 
+        <code>npm run start</code>
+     </div>
+    </li>
+
 </ul>
 
 ## 🧠 Purpose
